@@ -151,7 +151,7 @@ loop:
 	}
 }
 
-// TestIssue836 verifies http://code.google.com/p/go/issues/detail?id=836.
+// TestIssue836 verifies http://github.com/chenjianlong/go/issues/detail?id=836.
 func TestIssue836(t *testing.T) {
 	a := image.NewRGBA(image.Rect(0, 0, 1, 1))
 	b := image.NewRGBA(image.Rect(0, 0, 2, 2))

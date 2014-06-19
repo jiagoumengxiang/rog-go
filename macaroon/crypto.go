@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"hash"
 
-	"code.google.com/p/go.crypto/nacl/secretbox"
+	"github.com/chenjianlong/go.crypto/nacl/secretbox"
 )
 
 func keyedHash(key, text []byte) []byte {

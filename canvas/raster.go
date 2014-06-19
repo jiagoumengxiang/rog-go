@@ -1,7 +1,7 @@
 package canvas
 
 import (
-	"code.google.com/p/freetype-go/freetype/raster"
+	"github.com/chenjianlong/freetype-go/freetype/raster"
 	"fmt"
 	"image"
 	"image/color"

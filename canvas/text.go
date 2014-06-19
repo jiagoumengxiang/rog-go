@@ -1,10 +1,10 @@
 package canvas
 
 import (
-	"code.google.com/p/freetype-go/freetype"
-	"code.google.com/p/freetype-go/freetype/raster"
-	"code.google.com/p/freetype-go/freetype/truetype"
-	"code.google.com/p/rog-go/values"
+	"github.com/chenjianlong/freetype-go/freetype"
+	"github.com/chenjianlong/freetype-go/freetype/raster"
+	"github.com/chenjianlong/freetype-go/freetype/truetype"
+	"github.com/chenjianlong/rog-go/values"
 	"image"
 	"image/draw"
 )

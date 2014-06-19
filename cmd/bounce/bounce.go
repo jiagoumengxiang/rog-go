@@ -1,11 +1,11 @@
 package main
 
 import (
-	"code.google.com/p/freetype-go/freetype/truetype"
-	"code.google.com/p/rog-go/canvas"
-	"code.google.com/p/rog-go/values"
-	"code.google.com/p/x-go-binding/ui"
-	"code.google.com/p/x-go-binding/ui/x11"
+	"github.com/chenjianlong/freetype-go/freetype/truetype"
+	"github.com/chenjianlong/rog-go/canvas"
+	"github.com/chenjianlong/rog-go/values"
+	"github.com/chenjianlong/x-go-binding/ui"
+	"github.com/chenjianlong/x-go-binding/ui/x11"
 	"fmt"
 	"image"
 	"image/color"

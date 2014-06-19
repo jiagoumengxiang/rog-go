@@ -40,7 +40,7 @@ package event
 //
 import "C"
 import (
-	"code.google.com/p/rog-go/exp/callback"
+	"github.com/chenjianlong/rog-go/exp/callback"
 	"unsafe"
 )
 

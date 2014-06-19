@@ -2,7 +2,7 @@ package main
 
 import (
 	"bufio"
-	"code.google.com/p/rog-go/exp/go/token"
+	"github.com/chenjianlong/rog-go/exp/go/token"
 	"fmt"
 	"io"
 	"log"

@@ -8,9 +8,10 @@
 package ast
 
 import (
-	"code.google.com/p/rog-go/exp/go/token"
 	"unicode"
 	"unicode/utf8"
+
+	"github.com/chenjianlong/rog-go/exp/go/token"
 )
 
 // ----------------------------------------------------------------------------

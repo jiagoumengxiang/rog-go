@@ -2,11 +2,6 @@ package main
 
 import (
 	"bytes"
-	"code.google.com/p/rog-go/exp/go/ast"
-	"code.google.com/p/rog-go/exp/go/parser"
-	"code.google.com/p/rog-go/exp/go/printer"
-	"code.google.com/p/rog-go/exp/go/token"
-	"code.google.com/p/rog-go/exp/go/types"
 	"errors"
 	"flag"
 	"fmt"
@@ -18,6 +13,12 @@ import (
 	"sort"
 	"strconv"
 	"strings"
+
+	"github.com/chenjianlong/rog-go/exp/go/ast"
+	"github.com/chenjianlong/rog-go/exp/go/parser"
+	"github.com/chenjianlong/rog-go/exp/go/printer"
+	"github.com/chenjianlong/rog-go/exp/go/token"
+	"github.com/chenjianlong/rog-go/exp/go/types"
 )
 
 var readStdin = flag.Bool("i", false, "read file from stdin")

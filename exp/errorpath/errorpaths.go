@@ -10,10 +10,10 @@ import (
 	"regexp"
 
 	"go/token"
-	"code.google.com/p/go.tools/go/loader"
-	"code.google.com/p/go.tools/go/ssa"
-	"code.google.com/p/go.tools/go/types"
-	"code.google.com/p/go.tools/oracle"
+	"github.com/chenjianlong/go.tools/go/loader"
+	"github.com/chenjianlong/go.tools/go/ssa"
+	"github.com/chenjianlong/go.tools/go/types"
+	"github.com/chenjianlong/go.tools/oracle"
 	"github.com/davecgh/go-spew/spew"
 )
 

@@ -11,7 +11,7 @@ import (
 	"sync"
 	//"log"
 	"bytes"
-	plan9 "code.google.com/p/rog-go/new9p"
+	plan9 "github.com/chenjianlong/rog-go/new9p"
 )
 
 func getuser() string { return os.Getenv("USER") }

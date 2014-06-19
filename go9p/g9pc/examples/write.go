@@ -1,8 +1,8 @@
 package main
 
 import (
-	"code.google.com/p/rog-go/go9p/g9p"
-	"code.google.com/p/rog-go/go9p/g9pc"
+	"github.com/chenjianlong/rog-go/go9p/g9p"
+	"github.com/chenjianlong/rog-go/go9p/g9pc"
 	"flag"
 	"fmt"
 	"io"

@@ -1,7 +1,7 @@
 package basic
 
 import (
-	"code.google.com/p/rog-go/exp/abc"
+	"github.com/chenjianlong/rog-go/exp/abc"
 	"io"
 )
 

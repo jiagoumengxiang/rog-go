@@ -1,9 +1,9 @@
 package main
 
 import (
-	"code.google.com/p/rog-go/exp/go/ast"
-	"code.google.com/p/rog-go/exp/go/sym"
-	"code.google.com/p/rog-go/exp/go/token"
+	"github.com/chenjianlong/rog-go/exp/go/ast"
+	"github.com/chenjianlong/rog-go/exp/go/sym"
+	"github.com/chenjianlong/rog-go/exp/go/token"
 	"fmt"
 	"log"
 )

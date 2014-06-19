@@ -1,7 +1,7 @@
 package main
 
 import (
-	"code.google.com/p/rog-go/canvas"
+	"github.com/chenjianlong/rog-go/canvas"
 	"exp/draw"
 	"exp/draw/x11"
 	"flag"

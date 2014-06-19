@@ -5,7 +5,7 @@
 package parser
 
 import (
-	"code.google.com/p/rog-go/exp/go/token"
+	"github.com/chenjianlong/rog-go/exp/go/token"
 	"os"
 	"testing"
 )

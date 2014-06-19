@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	gc "gopkg.in/check.v1"
-	"code.google.com/p/rog-go/macaroon"
+	"github.com/chenjianlong/rog-go/macaroon"
 	_ "net/http"
 )
 

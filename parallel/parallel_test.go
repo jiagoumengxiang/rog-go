@@ -1,7 +1,7 @@
 package parallel_test
 
 import (
-	"code.google.com/p/rog-go/parallel"
+	"github.com/chenjianlong/rog-go/parallel"
 	"sort"
 	"sync"
 	"testing"

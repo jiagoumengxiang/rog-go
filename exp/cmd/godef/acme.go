@@ -1,13 +1,14 @@
 package main
 
 import (
-	"code.google.com/p/goplan9/plan9/acme"
 	"fmt"
 	"io"
 	"os"
 	"os/user"
 	"strconv"
 	"strings"
+
+	"github.com/chenjianlong/goplan9/plan9/acme"
 )
 
 type acmeFile struct {

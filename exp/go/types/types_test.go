@@ -2,9 +2,9 @@ package types
 
 import (
 	"bytes"
-	"code.google.com/p/rog-go/exp/go/ast"
-	"code.google.com/p/rog-go/exp/go/parser"
-	"code.google.com/p/rog-go/exp/go/token"
+	"github.com/chenjianlong/rog-go/exp/go/ast"
+	"github.com/chenjianlong/rog-go/exp/go/parser"
+	"github.com/chenjianlong/rog-go/exp/go/token"
 	"io/ioutil"
 	"os"
 	"path/filepath"

@@ -5,8 +5,8 @@ import (
 	"io"
 	"os"
 
-	"code.google.com/p/goplan9/plan9"
-	"code.google.com/p/goplan9/plan9/client"
+	"github.com/chenjianlong/goplan9/plan9"
+	"github.com/chenjianlong/goplan9/plan9/client"
 )
 
 func main() {
